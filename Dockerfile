@@ -4,5 +4,4 @@ FROM ghcr.io/flaresolverr/flaresolverr:latest
 # Expose the default FlareSolverr port
 EXPOSE 8191
 
-# Start FlareSolverr
-CMD ["./flaresolverr"]
+
